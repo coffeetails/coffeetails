@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **m.bjork95@gmail.com**
 
-- ⚡ Fun fact: **I love handcraft such at crochet**
+- ⚡ Fun fact: **I love handcraft such as crochet**
 
 
 <h3 align="left">Languages and Tools I've learned so far:</h3>
