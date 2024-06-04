@@ -7,7 +7,7 @@
 
 - ⚡ Fun fact: **I love handcraft such as crochet and sewing**
 
-- 👀 Check out my portfolio at http://kaffekod.nu/, written without a framework.
+- 👀 Check out my portfolio at http://kaffekod.nu/.
 
 
 <h3 align="left">Languages, Tools and other stuff I've learned so far:</h3>
