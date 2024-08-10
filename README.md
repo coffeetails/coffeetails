@@ -3,11 +3,13 @@
 
 - 🌱 I’m currently working on landing a job to grow and flourish in.
 
-- 📫 How to reach me **m.bjork95@gmail.com**
+- 📫 You can reach me at **kaffekod@protonmail.com**.
 
-- ⚡ Fun fact: **I love handcraft such as crochet and sewing**
+- ⚡ When I'm not coding you can probably find me at the gym, knitting somewhere or gaming at home.
 
-- 👀 Check out my portfolio at http://kaffekod.nu/.
+- 👀 Check out my portfolio at [kaffekod.nu](http://kaffekod.nu/).
+
+- 🐱 I have two cozy and playfull cats.
 
 
 <h3 align="left">Languages, Tools and other stuff I've learned so far:</h3>
