@@ -1,8 +1,12 @@
 # <center> 🔸 🔆 Hellu! 🔆 🔸 </center>
 
-I'm currently studying a full-stack development course with a focus on Java. I have previously studied frontend development with TypeScript and React. This autumn, I'm looking for an internship to gain hands-on experience with Java.  
-I also manage the website for [funkit.at](https://funkit.at/), a non-profit organization.  
-  
+```
+Fullstack dev in the forests of Värmland, Sweden. 
+
+\(._.)   
+   )_)z   
+  /   \   
+```
 
 ### 🌐 Let's connect and chat
 [![JDS Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/C7PzSw6mJV) 
@@ -29,11 +33,6 @@ I also manage the website for [funkit.at](https://funkit.at/), a non-profit orga
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white) 
 ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=flat&logo=firebase)
 ![Sanity](https://img.shields.io/badge/Sanity-%23f1413d.svg?style=flat&logo=sanity&logoColor=white)  
-
-## 📊 GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=coffeetails&theme=merko&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=coffeetails&theme=merko&hide_border=false&include_all_commits=true&count_private=true&layout=compact)  
-<!-- ![](https://github-contributor-stats.vercel.app/api?username=coffeetails&limit=5&theme=merko&combine_all_yearly_contributions=true) -->
 
 <center>🔸 🔆 🔸</center>
 
